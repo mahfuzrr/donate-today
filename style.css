@@ -9,7 +9,7 @@
 /* Header section starts */
 #header{
     height: 100vh;
-    background-image: linear-gradient(rgba(18, 18, 18, 0), rgba(18, 18, 18, 0.9)), url('./images/header-bg.png');
+    background-image: linear-gradient(rgba(18, 18, 18, 0), rgba(18, 18, 18, 0.9)), url('images/header-bg.png');
     background-size: cover;
     overflow: hidden;
 }
